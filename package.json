@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/webpack/null-loader/issues"
   },
-  "homepage": "https://github.com/webpack/null-loader"
+  "homepage": "https://github.com/webpack/null-loader",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
 }
